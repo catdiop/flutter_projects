@@ -1,0 +1,1 @@
+Tip : Toujours englober un widget Column dans un Scrollable Widget (par exemple : SingleChildScrollView). 
